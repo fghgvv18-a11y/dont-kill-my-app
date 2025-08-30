@@ -20,7 +20,8 @@ manufacturer:
   </figure>
 
   <figure>
-    <img src="/assets/img/uniherz/app_blocker.png">
+    <img src="/assets/img/universitasnya 
+        /app_blocker.png">
     <figcaption>App blocker disabled.</figcaption>
   </figure>
 
